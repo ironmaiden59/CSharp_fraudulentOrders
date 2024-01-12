@@ -1,0 +1,14 @@
+D:\C# Learn\CsharpProjects\array\bin\Debug\net8.0\Array.exe
+D:\C# Learn\CsharpProjects\array\bin\Debug\net8.0\Array.deps.json
+D:\C# Learn\CsharpProjects\array\bin\Debug\net8.0\Array.runtimeconfig.json
+D:\C# Learn\CsharpProjects\array\bin\Debug\net8.0\Array.dll
+D:\C# Learn\CsharpProjects\array\bin\Debug\net8.0\Array.pdb
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.dll
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\refint\Array.dll
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.pdb
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\ref\Array.dll
