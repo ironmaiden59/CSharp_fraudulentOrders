@@ -12,3 +12,4 @@ D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\refint\Array.dll
 D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.pdb
 D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\Array.genruntimeconfig.cache
 D:\C# Learn\CsharpProjects\array\obj\Debug\net8.0\ref\Array.dll
+D:\C# Learn\CsharpProjects\Array\obj\Debug\net8.0\Array.sourcelink.json

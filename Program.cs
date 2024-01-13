@@ -32,3 +32,19 @@ foreach(int items in inventory)
 }
 Console.WriteLine($"We have {sum} items in inventory");
 */
+
+
+//Exercise - Complete a challenge activity for nested iteration and selection statements
+//Fraudulent order challenge
+
+//Code challenge - Report the Order IDs that need further investigation
+
+string[] orders = {"B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"};
+
+foreach(string items in orders)
+{
+  if (items.StartsWith("B"))
+  {
+    Console.WriteLine(items);
+  }
+}
